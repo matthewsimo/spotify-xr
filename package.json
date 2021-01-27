@@ -8,7 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "drei": "2.2.13",
+    "@react-three/drei": "^2.2.22",
+    "@react-three/xr": "^1.1.1",
     "next": "10.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
